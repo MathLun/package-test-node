@@ -1,0 +1,23 @@
+{
+  "name": "package-test-node",
+  "version": "0.0.2",
+  "description": "Simple package nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathlun/package-test-node.git"
+  },
+  "keywords": [
+    "package-test",
+    "test-package"
+  ],
+  "author": "Matheus L.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathlun/package-test-node/issues"
+  },
+  "homepage": "https://github.com/mathlun/package-test-node#readme"
+}
