@@ -1,6 +1,6 @@
 {
   "name": "package-test-node",
-  "version": "0.0.5",
+  "version": "0.0.3",
   "description": "Simple package nodejs",
   "main": "index.js",
   "scripts": {
